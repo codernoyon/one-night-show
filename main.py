@@ -53,7 +53,7 @@
 
 
 # class Details:
-#     name = 'noyon'
+#     name = 'Noyon'
 #     age = 19
 #     study_class = 11
 #
@@ -72,11 +72,4 @@
 # way 2
 # a, b = b, a
 # print(a, b)
-
-
-
-
-
-
-
 
